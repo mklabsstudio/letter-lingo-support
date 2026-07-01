@@ -4,7 +4,7 @@ Thank you for playing Letter Lingo.
 
 For support, bug reports, feedback, or feature requests, please contact:
 
-**mklabsstudio@gmail.com**
+**m.k.labsstudio@gmail.com**
 
 We usually respond as soon as possible.
 
@@ -18,6 +18,6 @@ Letter Lingo is a word puzzle game where you build words, find crossings, and di
 
 З питань підтримки, повідомлень про помилки, відгуків або пропозицій пишіть на:
 
-**mklabsstudio@gmail.com**
+**mm.k.labsstudio@gmail.com**
 
 Ми зазвичай відповідаємо якнайшвидше.
